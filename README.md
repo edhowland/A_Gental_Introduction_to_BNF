@@ -465,6 +465,10 @@ PDF: [https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf](https://www.cs.
 Notes about regular sets, regular expressions and regular languages:
 [https://www.includehelp.com/toc/regular-sets-and-their-properties-in-theory-of-computation.aspx](https://www.includehelp.com/toc/regular-sets-and-their-properties-in-theory-of-computation.aspx)
 
+Wikipedia article on Thompson Construction (Ken Thompson of Unix Kernel fame)
+How to construct an linear time complex algorithm NFA from a regexp:
+[https://en.wikipedia.org/wiki/Thompson%27s_construction#The_algorithm](https://en.wikipedia.org/wiki/Thompson%27s_construction#The_algorithm)
+
 
 Notes from college class on computational models
 Extensive notes on LALR(1) parsers
