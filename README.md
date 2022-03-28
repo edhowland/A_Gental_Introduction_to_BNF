@@ -18,7 +18,7 @@ South Eastern Michigan BSD User's Group on 03/15/2022
   * Notational differences between these
 6. Syntax of  BNF
 7. What is Language
-  * Lexicographical
+  * Lexical
   * Grammatical
   * Semantic
 8. Types of languages
@@ -37,16 +37,8 @@ South Eastern Michigan BSD User's Group on 03/15/2022
     + First use of Recursion
 11.  Simple of CFG
 
-## Links from Ed's Bio:
 
-CroMemCo ROM.
-[https://en.wikipedia.org/wiki/Cromemco](https://en.wikipedia.org/wiki/Cromemco)
 
-AT&T 3B series of minicomputers:
-[https://en.wikipedia.org/wiki/3B_series_computers#History](https://en.wikipedia.org/wiki/3B_series_computers#History)
-
-B. S. FAQ about C++ predecessor called "C with Classes"
-[https://web.archive.org/web/20160206214150/http://www.stroustrup.com/bs_faq.html#invention](https://web.archive.org/web/20160206214150/http://www.stroustrup.com/bs_faq.html#invention)
 
 
 ## Detailed Venn Diagram of Grammar types
@@ -454,6 +446,8 @@ Wolfram, S. A New Kind of Science
 
 
 
+Introduction to the Theory of Computation, Sipser, Michael
+[https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X)
 ## Papers
 
 Turing, Alan M. (1936) On the  Computable Numbers with an application to
@@ -487,6 +481,38 @@ Peter Naur ACM AM Turing award lecture
 Donald Knuth on his love of Context Free Languages
 [https://www.webofstories.com/play/donald.knuth/30](https://www.webofstories.com/play/donald.knuth/30)
 
+Computerphile videos on parsing
+https://www.youtube.com/watch?v=bxpc9Pp5pZM
+
+Problem with Top down parsing: Left Recursion
+https://www.youtube.com/watch?v=ckkzQ_KTFfg
+
+More videos from Developer Zone on Compilers
+https://www.youtube.com/playlist?list=PLRnCK4HQiHuTKvA0YI5SYUW5rcwiNR7Oc
+Note: Covers most of the items in this talk and expands on them.
+
+Math's Fundamental Flaw
+https://www.youtube.com/watch?v=HeQX2HjkcNo
+
+
+
+Bottom Up parsing
+https://www.youtube.com/watch?v=tH5AOX9929g
+
+Chomsky Normal Form
+https://www.youtube.com/watch?v=IiCbNhHwsws
+The complete playlist on Theory of Computation from this channel
+https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz
+
+MIT OpenCourseWare Fall 2020 Theory of computation with Michael Sipser
+https://www.youtube.com/redirect?event=playlist_description&redir_token=QUFFLUhqblRaazVUb3JxbTFvSnNyMGdpeHVwSHZPckQtZ3xBQ3Jtc0tuU2dYR1VvV01VWWY2V2tZdnNjZVRMYzRFOF9udzJrM3JhbEVxN2kxM0VWQU9tZDRGSGZ1Ync2SXdpRDUzQ0NmVTcxeTcyTXIyTTQ5YzhlVkREY29MY0ZhMnRGcGE1WVZEOWVWVmp2em1Ua1hWaHZfMA&q=https%3A%2F%2Focw.mit.edu%2F18-404JF20
+The complete playlist (25 videos)
+[https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+
+
+With regard to nondeterminism, consider the Unix fork() system call.
+It returns 0 in the child process and the PID in the parent process.
+https://www.youtube.com/watch?v=xHu7qI1gDPA
 
 
 ### ACM AM Turing Awardees
@@ -504,6 +530,10 @@ Turing Award lecture
 PDF
 [https://dl.acm.org/ft_gateway.cfm?id=1283933&type=pdf](https://dl.acm.org/ft_gateway.cfm?id=1283933&type=pdf)
 Peter Naur
+
+Dana Scott
+Proof that any nondeterministic finite automaton can be turned into a deterministic finite automaton (NFA <=> DFA)
+https://amturing.acm.org/award_winners/scott_1193622.cfm
 
 ## File formats
 YAML

@@ -1,4 +1,5 @@
-[ switch to picture ]
+# Peter Naur
+
 
 I could not find very much about Mr. Naur
 

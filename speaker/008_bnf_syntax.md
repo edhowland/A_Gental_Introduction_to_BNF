@@ -1,3 +1,4 @@
+# BNF Syntax
 The entire file is a series of what are called rules
   * A rule has a Left hand side, the derives operator and the right hand side
 The S or Start symbol

@@ -1,0 +1,6 @@
+; How to recognize an identifier: leter followed by leter_or_digit*
+<Letter> ::= "a" | "b" | "c" | ... | "z"
+<Number> ::= "0" | "1" | "2" | "3" | "4" | ... | "9"
+<LetterOrNumber> ::= <Letter> | <Number>
+<Identifier> ::= <LetterOrNumber> <Identifier>
+                 | Eps
